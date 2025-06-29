@@ -1,0 +1,18 @@
+2025-06-29T10:59:34.157+05:30  INFO 9836 --- [cab-booking-mcp] [main] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 17.0.11 with PID 9836 (started by User in D:\code\MCP_Cab_Rooster_Management)
+2025-06-29T10:59:34.164+05:30 DEBUG 9836 --- [cab-booking-mcp] [main] com.example.demo.DemoApplicationTests    : Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-06-29T10:59:34.165+05:30  INFO 9836 --- [cab-booking-mcp] [main] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-06-29T10:59:35.188+05:30  INFO 9836 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-06-29T10:59:35.267+05:30  INFO 9836 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-06-29T10:59:35.269+05:30  INFO 9836 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-06-29T10:59:35.271+05:30  INFO 9836 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-06-29T10:59:35.272+05:30  INFO 9836 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-06-29T10:59:35.571+05:30  INFO 9836 --- [cab-booking-mcp] [main] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 1.849 seconds (process running for 3.051)
+2025-06-29T10:59:45.994+05:30  INFO 13508 --- [cab-booking-mcp] [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.11 with PID 13508 (D:\code\MCP_Cab_Rooster_Management\target\classes started by User in D:\code\MCP_Cab_Rooster_Management)
+2025-06-29T10:59:45.996+05:30 DEBUG 13508 --- [cab-booking-mcp] [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-06-29T10:59:45.998+05:30  INFO 13508 --- [cab-booking-mcp] [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-06-29T10:59:46.753+05:30  INFO 13508 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-06-29T10:59:46.809+05:30  INFO 13508 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-06-29T10:59:46.811+05:30  INFO 13508 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-06-29T10:59:46.812+05:30  INFO 13508 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-06-29T10:59:46.813+05:30  INFO 13508 --- [cab-booking-mcp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-06-29T10:59:47.049+05:30  INFO 13508 --- [cab-booking-mcp] [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.473 seconds (process running for 1.736)
